@@ -5,7 +5,9 @@ import MaterialLayout from "./components/Layout/MaterialLayout";
 function App() {
   return (
     <div className="App">
-      <MaterialLayout />
+      <MaterialLayout>
+        <h1>Checkout page</h1>
+      </MaterialLayout>
     </div>
   );
 }
