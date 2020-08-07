@@ -1,6 +1,6 @@
-import React from "react";
-import { useFormikContext } from "formik";
-import { Typography, Grid } from "@material-ui/core";
+import React from "./node_modules/react";
+import { useFormikContext } from "./node_modules/formik";
+import { Typography, Grid } from "./node_modules/@material-ui/core";
 import ProductDetails from "./ProductDetails";
 import ShippingDetails from "./ShippingDetails";
 import PaymentDetails from "./PaymentDetails";

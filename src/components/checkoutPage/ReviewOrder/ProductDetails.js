@@ -1,5 +1,5 @@
-import React from "react";
-import { Typography, List, ListItem, ListItemText } from "@material-ui/core";
+import React from "./node_modules/react";
+import { Typography, List, ListItem, ListItemText } from "./node_modules/@material-ui/core";
 import useStyles from "./styles";
 
 const products = [

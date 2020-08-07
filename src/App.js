@@ -1,12 +1,13 @@
 import React from "react";
 import "./App.css";
 import MaterialLayout from "./components/Layout/MaterialLayout";
+import CheckoutPage from "./components/CheckoutPage";
 
 function App() {
   return (
     <div className="App">
       <MaterialLayout>
-        <h1>Checkout page</h1>
+        <CheckoutPage />
       </MaterialLayout>
     </div>
   );

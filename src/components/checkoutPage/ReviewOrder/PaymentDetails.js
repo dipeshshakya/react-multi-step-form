@@ -1,6 +1,6 @@
-import React from "react";
-import moment from "moment";
-import { Typography, Grid } from "@material-ui/core";
+import React from "./node_modules/react";
+import moment from "./node_modules/moment";
+import { Typography, Grid } from "./node_modules/@material-ui/core";
 import useStyles from "./styles";
 
 function PaymentDetails(props) {

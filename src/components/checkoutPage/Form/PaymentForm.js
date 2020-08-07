@@ -1,5 +1,5 @@
-import React from "react";
-import { Grid, Typography } from "@material-ui/core";
+import React from "./node_modules/react";
+import { Grid, Typography } from "./node_modules/@material-ui/core";
 import { InputField, DatePickerField } from "../../FormFields";
 
 export default function PaymentForm(props) {

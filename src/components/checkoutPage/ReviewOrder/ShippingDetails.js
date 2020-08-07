@@ -1,5 +1,5 @@
-import React from "react";
-import { Typography, Grid } from "@material-ui/core";
+import React from "./node_modules/react";
+import { Typography, Grid } from "./node_modules/@material-ui/core";
 import useStyles from "./styles";
 
 function PaymentDetails(props) {

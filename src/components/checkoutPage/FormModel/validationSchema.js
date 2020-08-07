@@ -1,5 +1,5 @@
-import * as Yup from "yup";
-import moment from "moment";
+import * as Yup from "./node_modules/yup";
+import moment from "./node_modules/moment";
 import checkoutFormModel from "./checkoutFormModel";
 const {
   formField: {
